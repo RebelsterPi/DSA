@@ -1,10 +1,6 @@
-package lab;
-
-
-
+package anything;
 public class Node {
 	int data;
-	
 	Node next;
 	Node head;
 	Node t;
@@ -14,7 +10,7 @@ public class Node {
 		data = d;
 		next = null;
 	}
-
+		//============Singly Linked List===============
 //============Insertion===============
 	public void insertAtFront(int data) {
 
@@ -114,7 +110,7 @@ public class Node {
 		}
 	}
 	
+	
 }
-
 
 

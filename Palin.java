@@ -1,5 +1,4 @@
-package lab;
-
+package anything;
 public class Palin {
 	class Node
 	{
@@ -49,5 +48,4 @@ public class Palin {
 	 
 	    } }  }
 	
-
 
