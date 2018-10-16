@@ -3,7 +3,7 @@ package anything;
 import java.util.*;
 
 public class Driver {
-
+//main class
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int value;
@@ -12,6 +12,7 @@ public class Driver {
 		Palin p= new Palin();
 		while (c == 1) {
 			a = 1;
+			//menu for the program
 		System.out.println(" ============================");
 		System.out.println("|          Choose            |");
 		System.out.println(" ============================");
